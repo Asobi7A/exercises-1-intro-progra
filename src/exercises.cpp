@@ -5,7 +5,14 @@
 using namespace std;
 
 void exercise_1(string s1, string s2, string s3) {
-  // TODO: YOUR CODE HERE
+string a = s1;
+if (s2<a){
+  a = s2;
+} 
+if (s3<a){
+  a = s3;
+}
+cout<<menor;
 }
 
 void exercise_2(double A, double B, double C) {
