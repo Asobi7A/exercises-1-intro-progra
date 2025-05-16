@@ -12,7 +12,7 @@ if (s2<a){
 if (s3<a){
   a = s3;
 }
-cout<<menor;
+cout<<a;
 } 
 
 void exercise_2(double A, double B, double C) {
